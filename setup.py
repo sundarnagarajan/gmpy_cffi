@@ -12,7 +12,7 @@ setup(
     url="https://github.com/sn6uv/gmpy_cffi",
     download_url="https://github.com/sn6uv/gmpy_cffi/tarball/0.1",
     keywords=["PyPy", "gmp"],
-    install_requires = ['cffi>=1.0.0',],
+    requires = ['cffi>=1.0.0',],
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
         'Intended Audience :: Developers',
